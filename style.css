@@ -79,9 +79,9 @@ a {
 
 .hero-button {
     width: 120px;
-    background: royalblue;
+    background: #3882F6;
     border-radius: 8px;
-    border: 1px solid royalblue;
+    border: 1px solid #3882F6;
     color: white;
     padding: 12px;
   }
